@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   // 2025년 1월 1일 카운트다운
-  const countDownDate = new Date("Jan 1, 2025 00:00:00").getTime();
+  const countDownDate = new Date("Nov 19, 2026 09:00:00").getTime();
 
   // 1초마다 갱신
   const x = setInterval(function() {
@@ -24,7 +24,7 @@ function App() {
     document.getElementById("hours").textContent = hours;
     document.getElementById("minutes").textContent = minutes;
     document.getElementById("seconds").textContent = seconds;
-    document.getElementById("situation").textContent = "이 시간만 기다리면 2025년이라고?";
+    document.getElementById("situation").textContent = "이 시간만 기다리면 수능이라고?";
 
     // 콜론 깜빡이게
     const colon = document.querySelectorAll('.colon');
@@ -69,7 +69,7 @@ function App() {
         </div>
         <h3 id="situation"> </h3>
         <p>Copyright 2024. 이은교 all rights reserved.
-          <br />2024년 1월 1일 제작됨.
+          <br />2024년 7월 3일 제작됨.
         </p>
       </header>
     </div>
