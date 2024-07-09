@@ -42,7 +42,7 @@ function App() {
       document.getElementById("hours").textContent = "00";
       document.getElementById("minutes").textContent = "00";
       document.getElementById("seconds").textContent = "00";
-      document.getElementById("situation").textContent = "Happy New Year 2025!";
+      document.getElementById("situation").textContent = "Happy 2026 CSAT";
     }
   }, 1000);
 
@@ -68,7 +68,7 @@ function App() {
           </div>
         </div>
         <h3 id="situation"> </h3>
-        <p>Copyright 2024. 이은교 all rights reserved.
+        <p>Copyright 2024. 기만자 all rights reserved.
           <br />2024년 7월 3일 제작됨.
         </p>
       </header>
