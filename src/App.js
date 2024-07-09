@@ -69,7 +69,7 @@ function App() {
         </div>
         <h3 id="situation"> </h3>
         <p>Copyright 2024. 기만자 all rights reserved.
-          <br />2024년 7월 3일 제작됨.
+          <br />2024년 7월 3일 제작됨. (인생 망했다!)
         </p>
       </header>
     </div>
