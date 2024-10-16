@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-  // 2025년 1월 1일 카운트다운
+  // 2027년 수능 카운트다운
   const countDownDate = new Date("Nov 19, 2026 09:00:00").getTime();
 
   // 1초마다 갱신
